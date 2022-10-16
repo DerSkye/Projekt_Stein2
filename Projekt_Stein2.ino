@@ -4,8 +4,8 @@
 int ledPin2 = 2;      //Defining pinport 2 as ledPin2
 int ledPin16 = 16;    //Defining pinport 16 ledPin16
                       //circuit will close over grnd
-const char* ssid = "Fairphone 3 AP_9379";   //defining SSID 
-const char* password =  "vodafonehuso";     //defining password for ssid
+const char* ssid = "";   //defining SSID 
+const char* password =  "";     //defining password for ssid
 
 void setup() {
  
